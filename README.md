@@ -1,2 +1,2 @@
 # terraform
-Terraform main repo
+terraform main repo
